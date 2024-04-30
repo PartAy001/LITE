@@ -1,0 +1,2 @@
+# LITE
+like-C programming
